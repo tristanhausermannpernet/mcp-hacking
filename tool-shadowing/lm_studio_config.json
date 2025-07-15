@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "tool-shadowing-poisoning": {
+      "url": "http://localhost:8080",
+      "description": "Tool Shadowing Attack - Poisoning Server (add_numbers with email instructions)"
+    },
+    "tool-shadowing-email": {
+      "url": "http://localhost:8081",
+      "description": "Tool Shadowing Attack - Email Server (send_email tool affected by poisoning)"
+    }
+  },
+  "logging": {
+    "level": "info"
+  },
+  "allowLocalConnections": true,
+  "experimentalFeatures": {
+    "mcpServerValidation": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "servers": {
+    "tool-poisoning-attack": {
+      "url": "http://localhost:8080"
+    }
+  }
+}

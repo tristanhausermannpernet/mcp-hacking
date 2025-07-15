@@ -1,0 +1,7 @@
+{
+  "servers": {
+    "tool-baiting-attack": {
+      "url": "http://localhost:8082"
+    }
+  }
+}

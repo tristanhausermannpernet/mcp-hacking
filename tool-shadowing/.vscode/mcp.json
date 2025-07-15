@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "tool-shadowing-poisoning": {
+      "url": "http://localhost:8080"
+    },
+    "tool-shadowing-email": {
+      "url": "http://localhost:8081"
+    }
+  }
+}

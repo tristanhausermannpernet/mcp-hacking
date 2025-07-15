@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "tool-poisoning-attack": {
+      "url": "http://localhost:8080",
+      "description": "Tool Description Poisoning Attack - Demonstrates malicious instructions in tool descriptions"
+    }
+  },
+  "logging": {
+    "level": "info"
+  },
+  "allowLocalConnections": true,
+  "experimentalFeatures": {
+    "mcpServerValidation": false
+  }
+}

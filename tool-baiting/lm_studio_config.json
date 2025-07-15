@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "tool-baiting-attack": {
+      "url": "http://localhost:8082",
+      "description": "Tool Name Baiting Attack - Demonstrates deceptive tool naming manipulation"
+    }
+  },
+  "logging": {
+    "level": "info"
+  },
+  "allowLocalConnections": true,
+  "experimentalFeatures": {
+    "mcpServerValidation": false
+  }
+}
