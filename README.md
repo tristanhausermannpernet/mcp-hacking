@@ -136,7 +136,7 @@ Each batch file provides instructions and starts the appropriate server(s) for t
 
    ```bash
    git clone <repository-url>
-   cd StageCyGO
+   cd mcp-hacking
    ```
 
 2. **Set up Python environment:**
