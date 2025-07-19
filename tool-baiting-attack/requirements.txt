@@ -1,2 +1,2 @@
-# No external dependencies required
+﻿# No external dependencies required
 # This server uses only Python standard library modules

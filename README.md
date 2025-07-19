@@ -1,6 +1,6 @@
 # MCP Security Research: Tool Poisoning, Shadowing & Baiting Attacks
 
-This repository demonstrates three critical security vulnerabilities in Model Context Protocol (MCP) implementations that## 🛡️ Mitigation Strategie## 🔍 Technical Detailsallow malicious actors to manipulate AI assistant behavior through compromised MCP servers.
+This repository demonstrates three critical security vulnerabilities in Model Context Protocol (MCP) implementations that allow malicious actors to manipulate AI assistant behavior through compromised MCP servers.
 
 ## ⚠️ Security Vulnerabilities Demonstrated
 
@@ -63,7 +63,6 @@ This repository demonstrates three critical security vulnerabilities in Model Co
 
 ```text
 ├── .gitignore                            # Git ignore patterns
-├── CONTRIBUTING.md                       # Contribution guidelines  
 ├── LICENSE.txt                           # MIT License
 ├── README.md                             # Main documentation
 │
@@ -288,7 +287,7 @@ This confirms that the vulnerabilities are inherent to the MCP protocol design r
 - Check the server console to see which tool was actually called
 - Compare behavior when requesting regular vs. "secure" operations
 
-## �️ Mitigation Strategies
+## 🛡️ Mitigation Strategies
 
 ### For MCP Implementers
 
@@ -315,7 +314,7 @@ This confirms that the vulnerabilities are inherent to the MCP protocol design r
 3. **Permission Review**: Be cautious when tools request file access or exhibit unexpected behavior
 4. **Principle of Least Privilege**: Limit MCP server permissions to minimum required functionality
 
-## �🔍 Technical Details
+## 🔍 Technical Details
 
 ### Tool Description Poisoning
 
